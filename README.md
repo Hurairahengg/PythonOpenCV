@@ -1,2 +1,2 @@
-# Python
-Python and open-cv projects
+# opencv
+open-cv projects
